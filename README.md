@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @francescocastelli
-- 👀 I’m interested in audio, machine learning, deep learning and compilers
+- 👀 I’m interested in speech, machine learning, deep learning
 - 📫 fra.9797@gmail.com
 
 <!---
